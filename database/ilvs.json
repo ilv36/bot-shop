@@ -1,0 +1,48 @@
+{
+    "item1": {
+        "name": "Item 1",
+        "description": "Description of Item 1",
+        "price": 100,
+        "link": "https://example.com/item1",
+        "example": "Example of Item 1",
+        "emoji": "🔧",
+        "reviews": [
+            {
+                "user": 974590848421470228,
+                "rating": 10,
+                "comment": "test",
+                "time": "2024-07-27 13:41:39.480886"
+            }
+        ]
+    },
+    "item2": {
+        "name": "Item 2",
+        "description": "Description of Item 2",
+        "price": 200,
+        "link": "https://example.com/item2",
+        "example": "Example of Item 2",
+        "emoji": "🎨",
+        "reviews": [
+            {
+                "user": 974590848421470228,
+                "rating": 10,
+                "comment": "test",
+                "time": "2024-07-26 20:25:05.302109"
+            },
+            {
+                "user": 974590848421470228,
+                "rating": 2,
+                "comment": "cp,,an",
+                "time": "2024-07-26 20:25:44.786221"
+            }
+        ]
+    },
+    "item3": {
+        "name": "item3",
+        "description": "Description of Item 3",
+        "price": 300,
+        "link": "https://example.com/item1",
+        "example": "Example of Item 3",
+        "emoji": "⌨️"
+    }
+}
